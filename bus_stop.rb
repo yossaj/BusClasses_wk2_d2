@@ -5,7 +5,6 @@ class BusStop
     @name = name
     @queue = queue
 
-
   end
 
   def add_person_to_queue(person)
